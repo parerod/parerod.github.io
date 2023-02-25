@@ -62,13 +62,14 @@ footer {
 	font-weight: normal;
 	line-height: 25px;
 	color: black;
-	
+
 }
 .h2h {
 	font-size: 17px;
 	color: black;
 	padding-left: 20px;
 	font-weight: normal;
+	
 }
 .u1 {
 	list-style: none;
@@ -115,8 +116,9 @@ a:link {
 	height: 170px;
 }
 .menub {
-	background-image: url("images/footer.jpg");
+	/*background-image: url("images/footer.jpg");
 	/*background-repeat: no-repeat;*/
+	background-image: url("images/fondoRojo.jpg");
 	height: 40px;
 }
 .menu {
@@ -127,4 +129,7 @@ a:link {
 }
 .ah{
 	color: white;
+}
+#video {
+	width: 600px;
 }
