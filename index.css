@@ -138,5 +138,5 @@ a:link {
 }
 @font-face {
 	font-family: 'Open Sans';
-	src: url('tipografia/Formula1.ttf') format('truetype');
+	src: url('./tipografia/Formula1.ttf') format('truetype');
 }
