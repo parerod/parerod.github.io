@@ -62,14 +62,14 @@ footer {
 	font-weight: normal;
 	line-height: 25px;
 	color: black;
-
+	font-family: 'Open Sans';
 }
 .h2h {
 	font-size: 17px;
 	color: black;
 	padding-left: 20px;
 	font-weight: normal;
-	
+	font-family: 'Open Sans';
 }
 .u1 {
 	list-style: none;
@@ -130,6 +130,13 @@ a:link {
 .ah{
 	color: white;
 }
+.ah:hover {
+	color: black;
+}
 #video {
 	width: 600px;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('tipografia/Formula1.ttf') format('truetype');
 }
