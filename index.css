@@ -120,6 +120,8 @@ a:link {
 	/*background-repeat: no-repeat;*/
 	background-image: url("images/fondoRojo.jpg");
 	height: 40px;
+	display: flex;
+	justify-content: center;
 }
 .menu {
 	display: inline;
